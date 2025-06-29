@@ -1,6 +1,9 @@
 PharmaCare Landing Page
+
 Overview
+
 PharmaCare is a modern, responsive landing page designed for an online pharmacy shop. The website aims to promote pharmaceutical products and services, drive online sales, and build customer trust through a clean, user-friendly interface. This project is ideal for pharmacy businesses looking to establish or enhance their online presence.
+
 Features
 
 Hero Section: Engaging headline, subheadline, and call-to-action (CTA) to drive user interaction.
